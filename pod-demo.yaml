@@ -5,6 +5,6 @@ metadata:
 spec:
   containers:
   - name: demo-pod
-    image: quay.io/uvelyster/demo
+    image: jams777/gitflow-demo
     ports:
     - containerPort: 5000
